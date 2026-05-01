@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glass</string>
+    <string name="focus_active">NEURAL FLOW ACTIVE</string>
+    <string name="focus_locked_msg">FOCUS LOCKED</string>
+    <string name="low_focus_msg">LOW FOCUS - BOOSTING</string>
+    <string name="manual_tracking_msg">Manual Tracking Active</string>
+    <string name="notification_channel_name">Neural Audio Service</string>
+    <string name="notification_text">Neural optimization in progress...</string>
+    <string name="notification_title">Glass Neural Engine</string>
+    <string name="standby_msg">System standby. Tap Focus to engage.</string>
+    <string name="system_elite">Neural System Elite</string>
+    <style name="Theme.GlassApp" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable ic_launcher_round
+string app_name
+string focus_active
+string focus_locked_msg
+string low_focus_msg
+string manual_tracking_msg
+string notification_channel_name
+string notification_text
+string notification_title
+string standby_msg
+string system_elite
+style Theme.GlassApp

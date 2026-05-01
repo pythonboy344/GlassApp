@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883775537204",
+    "project_id": "glassap101",
+    "storage_bucket": "glassap101.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883775537204:android:c216b748782509d962ca61",
+        "android_client_info": {
+          "package_name": "com.glassapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRaA9YRtvlD5ah3C-lYeSbBHXtw-Y9wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

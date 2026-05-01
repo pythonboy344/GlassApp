@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.glassapp.app-debug-4:/drawable_ic_launcher.xml.flat",
+        "source": "com.glassapp.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.glassapp.app-debug-4:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.glassapp.app-main-6:/drawable/ic_launcher_round.xml"
+    }
+]
